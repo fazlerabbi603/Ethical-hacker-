@@ -1,5 +1,5 @@
 {
   "name": "Ethical Hacker AI Agent",
-  "description": "An AI-powered agent that performs a basic, non-intrusive security analysis of a given URL. It uses Gemini to provide professional insights on potential vulnerabilities, open ports, and security headers, along with recommendations for improvement.",
+  "description": "An AI-powered conversational agent for ethical hacking and cybersecurity education. Ask questions about security concepts, defensive techniques, and ethical hacking principles.",
   "requestFramePermissions": []
 }
